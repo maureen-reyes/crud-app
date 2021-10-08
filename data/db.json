@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Jane Doe",
+      "description": "frontend ux in",
+      "category": "UX",
+      "status": false,
+      "id": 1
+    },
+    {
+      "name": "John Doe",
+      "description": "UI / UX act",
+      "category": "UX",
+      "status": true,
+      "id": 2
+    },
+    {
+      "name": "Jenny Roe",
+      "description": "sample description",
+      "category": "UX",
+      "status": true,
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "name": "Developer",
+      "id": 1
+    },
+    {
+      "name": "UX",
+      "id": 2
+    },
+    {
+      "name": "QA",
+      "id": 3
+    }
+  ]
+}
